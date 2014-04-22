@@ -3,5 +3,5 @@
 
 developer=https://raw.githubusercontent.com/ZippyBling/capeFiles/30a36297a0247d50235399f5229fc837d51c68e9/CapeTemplate.png
 developer=ZippyBling
-tester=http://www.myurl.com/TESTER_CAPE.png
-tester=username2
+mang=https://raw.githubusercontent.com/ZippyBling/capeFiles/master/TextureCape.png
+mang=ZOMGITSACREEPER
