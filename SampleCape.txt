@@ -1,7 +1,7 @@
 #SampleCapesFile. Upload this to a dropbox or file server. not like 
 #mediafire, but one you can read in your browser.
 
-developer=https://www.dropbox.com/s/7hre7xhz5xp38dn/a001fd1a9bd8ae3f5ef8da52a784d323.png
+developer=https://raw.githubusercontent.com/ZippyBling/capeFiles/master/a001fd1a9bd8ae3f5ef8da52a784d323.png
 developer=ZippyBling
 tester=http://www.myurl.com/TESTER_CAPE.png
 tester=username2
